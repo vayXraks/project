@@ -165,13 +165,5 @@ const chats = {}
             reply_markup: backButton.reply_markup,
         })
     }
-
-
-
-
-
-
-
-
 })
  start();
